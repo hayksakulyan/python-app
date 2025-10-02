@@ -9,4 +9,4 @@ month = int(input('Enter month: '))
 print(calendar.month(year, month))
 
 
-print('Have good day!')
+print('Have a good day!')
